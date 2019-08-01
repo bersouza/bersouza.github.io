@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multiple Ways of API Integration in your JAMStack"
+title: "Another test here"
 date: "2019-07-25"
 categories: ["development","static sites"]
 tags: []
